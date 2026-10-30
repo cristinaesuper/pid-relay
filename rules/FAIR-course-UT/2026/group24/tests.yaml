@@ -20,6 +20,11 @@ tests:
     status: 302
     location: https://gitlab.utwente.nl/s2938804/fair-g24/-/raw/main/data/original.csv
 
+  - pid: https://w3id.org/FAIR-course-UT/2026/group24/metadata
+    note: the metadata folder in the repository
+    status: 302
+    location: https://gitlab.utwente.nl/s2938804/fair-g24/-/tree/main/metadata
+
   - path: ""
     note: the namespace leads to the project repository
     status: 302
